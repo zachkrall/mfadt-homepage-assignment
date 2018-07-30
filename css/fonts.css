@@ -1,0 +1,28 @@
+@font-face{
+  font-family: 'ManifontGroteskBook';
+  src:  url('fonts/ManifontGroteskBook.ttf');
+}
+@font-face{
+  font-family: 'ManifontGroteskBookItalic';
+  src:  url('fonts/ManifontGroteskBookItalic.ttf');
+}
+@font-face{
+  font-family: 'ManifontGroteskBold';
+  src:  url('fonts/ManifontGroteskBold.ttf');
+}
+@font-face{
+  font-family: 'ManifontGroteskBoldItalic';
+  src:  url('fonts/ManifontGroteskBoldItalic.ttf');
+}
+@font-face{
+  font-family: 'Astloch-Regular';
+  src:  url('fonts/Astloch-Regular.ttf');
+}
+@font-face{
+  font-family: 'Lyno-Jean';
+  src:  url('fonts/lyno_jean.ttf');
+}
+@font-face{
+  font-family: 'OptimumCompress';
+  src:  url('fonts/OptimumCompress-normal.otf');
+}
